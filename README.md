@@ -39,7 +39,7 @@
 # 📖 [OOP-School-Library] <a name="about-project"></a>
 
 
-**[OOP-School-Library]** is a simple console app where user can add new students and teachers. Add new books, save records of who borrowed a given book and when.
+**OOP-School-Library** is a simple console app where user can add new students and teachers. Add new books, save records of who borrowed a given book and when.
 
 ## 🛠 Built With <a name="built-with"></a>
 - [x] Programming Language: Ruby
@@ -48,16 +48,8 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Ruby
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
+- Ruby
+- PostgreSQL
 
 ### Key Features <a name="key-features"></a>
 
@@ -132,8 +124,6 @@ Tests will come in future.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[Make it a web-app]**
 - [ ] **[Make a nice and responsible UI]**
 
@@ -161,7 +151,6 @@ If you like this project, give a start to my github repo and for any suggestion,
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank my coding partner William for suggesting me such good tutorials.
 
