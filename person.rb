@@ -1,5 +1,5 @@
-require_relative './nameable.rb'
-require_relative './decorator.rb'
+require_relative './nameable'
+require_relative './decorator'
 
 class Person < Nameable
   attr_accessor :name, :age
@@ -24,6 +24,6 @@ class Person < Nameable
   def correct_name
     @name
   end
-  
+
   private :of_age
 end
